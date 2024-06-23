@@ -1,3 +1,5 @@
+edy: Ma apuc de harta
+
 ex:
 incep sa lucru (chis) (vedem data in log)
 
