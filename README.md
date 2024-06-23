@@ -1,3 +1,4 @@
+edy: am terminat, ma dau batut
 edy: Ma apuc de harta
 
 ex:
