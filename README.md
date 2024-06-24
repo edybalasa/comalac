@@ -1,4 +1,5 @@
 chis: nu mai lucrez, nam modificat nimic
+
 chis: lucrez la proiect
 
 chis: gata
