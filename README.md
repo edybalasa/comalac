@@ -1,3 +1,5 @@
+chis: lucrez la proiect
+
 chis: gata
 
 chis:
