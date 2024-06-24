@@ -1,3 +1,5 @@
+chis: incep sa lucru (mare parte caracter/movement)
+
 edy: am terminat, ma dau batut
 edy: Ma apuc de harta
 
