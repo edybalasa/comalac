@@ -24,4 +24,5 @@ etc
 etc
 
 nu mai lucru (chis)
+
 sebi: ma puc de dat cu capu de pereti
