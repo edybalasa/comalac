@@ -1,3 +1,5 @@
+chis: lucrez la harta
+
 chis: nu mai lucrez, nam modificat nimic
 
 chis: lucrez la proiect
