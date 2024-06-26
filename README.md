@@ -1,3 +1,13 @@
+chis: am adaugat:
+
+-am adaugat harta, textura ei este direct generata in godot
+
+-am adaugat cer, direct generat din godot
+
+-am adaugat ceata
+
+chis: gata
+
 chis: lucrez la harta
 
 chis: nu mai lucrez, nam modificat nimic
