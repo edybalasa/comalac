@@ -1,3 +1,6 @@
+chis: gata
+
+
 chis: lucru
 
 chis: am adaugat:
