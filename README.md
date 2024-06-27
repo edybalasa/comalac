@@ -1,3 +1,5 @@
+chis: lucru
+
 chis: am adaugat:
 
 -am adaugat harta, textura ei este direct generata in godot
