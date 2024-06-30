@@ -1,6 +1,7 @@
 
 sebi:lucru
 sebi: Am gatat, continui maine, a chis daca vezi asta am facut caracteru cum tiam zis ca vreu sal fac, da nu lam sters pa atau, te uiti la ambele si decizi care iti place mai mult, postez maine versiunea noua
+
 sebi: BA CHIS NU STIU CUM NAIBII AI FACUT CARACREU ALA DA A MEU NU FUNCTINEAZA LA FEL, renunt iti postez ce am adaugat, mam chinuit o 2 zile sa fac chestia mea sa mearga dar nu o face, de nici o culoarea, playerul tau ii mai bun chis, ii mai bun.
 
 
