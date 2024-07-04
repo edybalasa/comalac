@@ -1,4 +1,4 @@
-
+eu cu sebi: am adaugat bobbing (de pe q si e, bober kurva)
 sebi:lucru
 sebi: Am gatat, continui maine, a chis daca vezi asta am facut caracteru cum tiam zis ca vreu sal fac, da nu lam sters pa atau, te uiti la ambele si decizi care iti place mai mult, postez maine versiunea noua
 
